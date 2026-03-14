@@ -1,0 +1,632 @@
+{
+  "myeloma": {
+    "domain": "hematology",
+    "subdomain": "plasma_cell",
+    "conference": "ASH"
+  },
+  "multiple myeloma": {
+    "domain": "hematology",
+    "subdomain": "plasma_cell",
+    "conference": "ASH"
+  },
+  "smoldering myeloma": {
+    "domain": "hematology",
+    "subdomain": "plasma_cell",
+    "conference": "ASH"
+  },
+  "leukemia": {
+    "domain": "hematology",
+    "subdomain": "leukemia",
+    "conference": "ASH"
+  },
+  "aml": {
+    "domain": "hematology",
+    "subdomain": "leukemia",
+    "conference": "ASH"
+  },
+  "acute myeloid leukemia": {
+    "domain": "hematology",
+    "subdomain": "leukemia",
+    "conference": "ASH"
+  },
+  "cll": {
+    "domain": "hematology",
+    "subdomain": "leukemia",
+    "conference": "ASH"
+  },
+  "chronic lymphocytic leukemia": {
+    "domain": "hematology",
+    "subdomain": "leukemia",
+    "conference": "ASH"
+  },
+  "all": {
+    "domain": "hematology",
+    "subdomain": "leukemia",
+    "conference": "ASH"
+  },
+  "acute lymphoblastic leukemia": {
+    "domain": "hematology",
+    "subdomain": "leukemia",
+    "conference": "ASH"
+  },
+  "cml": {
+    "domain": "hematology",
+    "subdomain": "leukemia",
+    "conference": "ASH"
+  },
+  "chronic myeloid leukemia": {
+    "domain": "hematology",
+    "subdomain": "leukemia",
+    "conference": "ASH"
+  },
+  "lymphoma": {
+    "domain": "hematology",
+    "subdomain": "lymphoma",
+    "conference": "ASH"
+  },
+  "dlbcl": {
+    "domain": "hematology",
+    "subdomain": "lymphoma",
+    "conference": "ASH"
+  },
+  "diffuse large b-cell lymphoma": {
+    "domain": "hematology",
+    "subdomain": "lymphoma",
+    "conference": "ASH"
+  },
+  "follicular lymphoma": {
+    "domain": "hematology",
+    "subdomain": "lymphoma",
+    "conference": "ASH"
+  },
+  "hodgkin lymphoma": {
+    "domain": "hematology",
+    "subdomain": "lymphoma",
+    "conference": "ASH"
+  },
+  "myelodysplastic syndrome": {
+    "domain": "hematology",
+    "subdomain": "myelodysplastic",
+    "conference": "ASH"
+  },
+  "myelodysplastic": {
+    "domain": "hematology",
+    "subdomain": "myelodysplastic",
+    "conference": "ASH"
+  },
+  "myelofibrosis": {
+    "domain": "hematology",
+    "subdomain": "myeloproliferative",
+    "conference": "ASH"
+  },
+  "sickle cell": {
+    "domain": "hematology",
+    "subdomain": "hemoglobinopathy",
+    "conference": "ASH"
+  },
+  "sickle cell disease": {
+    "domain": "hematology",
+    "subdomain": "hemoglobinopathy",
+    "conference": "ASH"
+  },
+  "thalassemia": {
+    "domain": "hematology",
+    "subdomain": "hemoglobinopathy",
+    "conference": "ASH"
+  },
+  "parkinson": {
+    "domain": "neurology",
+    "subdomain": "parkinsonian",
+    "conference": "MDS_Congress"
+  },
+  "parkinson's": {
+    "domain": "neurology",
+    "subdomain": "parkinsonian",
+    "conference": "MDS_Congress"
+  },
+  "parkinson's disease": {
+    "domain": "neurology",
+    "subdomain": "parkinsonian",
+    "conference": "MDS_Congress"
+  },
+  "pd": {
+    "domain": "neurology",
+    "subdomain": "parkinsonian",
+    "conference": "MDS_Congress"
+  },
+  "msa": {
+    "domain": "neurology",
+    "subdomain": "parkinsonian",
+    "conference": "MDS_Congress"
+  },
+  "multiple system atrophy": {
+    "domain": "neurology",
+    "subdomain": "parkinsonian",
+    "conference": "MDS_Congress"
+  },
+  "psp": {
+    "domain": "neurology",
+    "subdomain": "parkinsonian",
+    "conference": "MDS_Congress"
+  },
+  "progressive supranuclear palsy": {
+    "domain": "neurology",
+    "subdomain": "parkinsonian",
+    "conference": "MDS_Congress"
+  },
+  "corticobasal syndrome": {
+    "domain": "neurology",
+    "subdomain": "parkinsonian",
+    "conference": "MDS_Congress"
+  },
+  "parkinsons": {
+    "domain": "neurology",
+    "subdomain": "parkinsonian",
+    "conference": "MDS_Congress"
+  },
+  "parkinson disease": {
+    "domain": "neurology",
+    "subdomain": "parkinsonian",
+    "conference": "MDS_Congress"
+  },
+  "pdisease": {
+    "domain": "neurology",
+    "subdomain": "parkinsonian",
+    "conference": "MDS_Congress"
+  },
+  "alzheimer": {
+    "domain": "neurology",
+    "subdomain": "dementia",
+    "conference": "CTAD"
+  },
+  "alzheimer's": {
+    "domain": "neurology",
+    "subdomain": "dementia",
+    "conference": "CTAD"
+  },
+  "alzheimer's disease": {
+    "domain": "neurology",
+    "subdomain": "dementia",
+    "conference": "CTAD"
+  },
+  "ad": {
+    "domain": "neurology",
+    "subdomain": "dementia",
+    "conference": "CTAD"
+  },
+  "dementia": {
+    "domain": "neurology",
+    "subdomain": "dementia",
+    "conference": "CTAD"
+  },
+  "lewy body dementia": {
+    "domain": "neurology",
+    "subdomain": "dementia",
+    "conference": "CTAD"
+  },
+  "multiple sclerosis": {
+    "domain": "neurology",
+    "subdomain": "demyelinating",
+    "conference": "ECTRIMS"
+  },
+  "ms": {
+    "domain": "neurology",
+    "subdomain": "demyelinating",
+    "conference": "ECTRIMS"
+  },
+  "relapsing ms": {
+    "domain": "neurology",
+    "subdomain": "demyelinating",
+    "conference": "ECTRIMS"
+  },
+  "rrms": {
+    "domain": "neurology",
+    "subdomain": "demyelinating",
+    "conference": "ECTRIMS"
+  },
+  "ppms": {
+    "domain": "neurology",
+    "subdomain": "demyelinating",
+    "conference": "ECTRIMS"
+  },
+  "spms": {
+    "domain": "neurology",
+    "subdomain": "demyelinating",
+    "conference": "ECTRIMS"
+  },
+  "neuromyelitis optica": {
+    "domain": "neurology",
+    "subdomain": "demyelinating",
+    "conference": "ECTRIMS"
+  },
+  "nmosd": {
+    "domain": "neurology",
+    "subdomain": "demyelinating",
+    "conference": "ECTRIMS"
+  },
+  "epilepsy": {
+    "domain": "neurology",
+    "subdomain": "epilepsy",
+    "conference": "AES"
+  },
+  "seizure": {
+    "domain": "neurology",
+    "subdomain": "epilepsy",
+    "conference": "AES"
+  },
+  "dravet syndrome": {
+    "domain": "neurology",
+    "subdomain": "epilepsy",
+    "conference": "AES"
+  },
+  "lennox-gastaut": {
+    "domain": "neurology",
+    "subdomain": "epilepsy",
+    "conference": "AES"
+  },
+  "als": {
+    "domain": "neurology",
+    "subdomain": "motor_neuron",
+    "conference": "AAN"
+  },
+  "amyotrophic lateral sclerosis": {
+    "domain": "neurology",
+    "subdomain": "motor_neuron",
+    "conference": "AAN"
+  },
+  "huntington": {
+    "domain": "neurology",
+    "subdomain": "neurodegeneration",
+    "conference": "AAN"
+  },
+  "huntington's disease": {
+    "domain": "neurology",
+    "subdomain": "neurodegeneration",
+    "conference": "AAN"
+  },
+  "spinal muscular atrophy": {
+    "domain": "neurology",
+    "subdomain": "motor_neuron",
+    "conference": "AAN"
+  },
+  "sma": {
+    "domain": "neurology",
+    "subdomain": "motor_neuron",
+    "conference": "AAN"
+  },
+  "hiv": {
+    "domain": "infectious_disease",
+    "subdomain": "hiv",
+    "conference": "CROI"
+  },
+  "hiv/aids": {
+    "domain": "infectious_disease",
+    "subdomain": "retroviral",
+    "conference": "CROI"
+  },
+  "aids": {
+    "domain": "infectious_disease",
+    "subdomain": "hiv",
+    "conference": "CROI"
+  },
+  "hepatitis b": {
+    "domain": "infectious_disease",
+    "subdomain": "viral_hepatitis",
+    "conference": "EASL"
+  },
+  "hepatitis c": {
+    "domain": "infectious_disease",
+    "subdomain": "viral_hepatitis",
+    "conference": "EASL"
+  },
+  "hbv": {
+    "domain": "infectious_disease",
+    "subdomain": "viral_hepatitis",
+    "conference": "EASL"
+  },
+  "hcv": {
+    "domain": "infectious_disease",
+    "subdomain": "viral_hepatitis",
+    "conference": "EASL"
+  },
+  "tuberculosis": {
+    "domain": "infectious_disease",
+    "subdomain": "bacterial",
+    "conference": "UNION"
+  },
+  "tb": {
+    "domain": "infectious_disease",
+    "subdomain": "bacterial",
+    "conference": "UNION"
+  },
+  "covid": {
+    "domain": "infectious_disease",
+    "subdomain": "coronavirus",
+    "conference": "ECCMID"
+  },
+  "covid-19": {
+    "domain": "infectious_disease",
+    "subdomain": "coronavirus",
+    "conference": "ECCMID"
+  },
+  "sars-cov-2": {
+    "domain": "infectious_disease",
+    "subdomain": "coronavirus",
+    "conference": "ECCMID"
+  },
+  "influenza": {
+    "domain": "infectious_disease",
+    "subdomain": "respiratory_viral",
+    "conference": "OPTIONS"
+  },
+  "fungal infection": {
+    "domain": "infectious_disease",
+    "subdomain": "fungal",
+    "conference": "ECCMID"
+  },
+  "aspergillosis": {
+    "domain": "infectious_disease",
+    "subdomain": "fungal",
+    "conference": "ECCMID"
+  },
+  "hiv-1": {
+    "domain": "infectious_disease",
+    "subdomain": "hiv",
+    "conference": "CROI"
+  },
+  "hiv-2": {
+    "domain": "infectious_disease",
+    "subdomain": "hiv",
+    "conference": "CROI"
+  },
+  "human immunodeficiency virus": {
+    "domain": "infectious_disease",
+    "subdomain": "hiv",
+    "conference": "CROI"
+  },
+  "acquired immunodeficiency syndrome": {
+    "domain": "infectious_disease",
+    "subdomain": "hiv",
+    "conference": "CROI"
+  },
+  "lung cancer": {
+    "domain": "oncology",
+    "subdomain": "thoracic",
+    "conference": "IASLC"
+  },
+  "nsclc": {
+    "domain": "oncology",
+    "subdomain": "thoracic",
+    "conference": "IASLC"
+  },
+  "sclc": {
+    "domain": "oncology",
+    "subdomain": "thoracic",
+    "conference": "IASLC"
+  },
+  "breast cancer": {
+    "domain": "oncology",
+    "subdomain": "breast",
+    "conference": "SABCS"
+  },
+  "her2 breast cancer": {
+    "domain": "oncology",
+    "subdomain": "breast",
+    "conference": "SABCS"
+  },
+  "triple negative breast cancer": {
+    "domain": "oncology",
+    "subdomain": "breast",
+    "conference": "SABCS"
+  },
+  "tnbc": {
+    "domain": "oncology",
+    "subdomain": "breast",
+    "conference": "SABCS"
+  },
+  "colorectal cancer": {
+    "domain": "oncology",
+    "subdomain": "gastrointestinal",
+    "conference": "ASCO"
+  },
+  "crc": {
+    "domain": "oncology",
+    "subdomain": "gastrointestinal",
+    "conference": "ASCO"
+  },
+  "prostate cancer": {
+    "domain": "oncology",
+    "subdomain": "genitourinary",
+    "conference": "ASCO"
+  },
+  "melanoma": {
+    "domain": "oncology",
+    "subdomain": "skin",
+    "conference": "ASCO"
+  },
+  "pancreatic cancer": {
+    "domain": "oncology",
+    "subdomain": "gastrointestinal",
+    "conference": "ASCO"
+  },
+  "renal cell carcinoma": {
+    "domain": "oncology",
+    "subdomain": "genitourinary",
+    "conference": "ASCO"
+  },
+  "rcc": {
+    "domain": "oncology",
+    "subdomain": "genitourinary",
+    "conference": "ASCO"
+  },
+  "hepatocellular carcinoma": {
+    "domain": "oncology",
+    "subdomain": "gastrointestinal",
+    "conference": "ASCO"
+  },
+  "hcc": {
+    "domain": "oncology",
+    "subdomain": "gastrointestinal",
+    "conference": "ASCO"
+  },
+  "ovarian cancer": {
+    "domain": "oncology",
+    "subdomain": "gynecologic",
+    "conference": "ASCO"
+  },
+  "glioblastoma": {
+    "domain": "oncology",
+    "subdomain": "cns_tumor",
+    "conference": "ASCO"
+  },
+  "gbm": {
+    "domain": "oncology",
+    "subdomain": "cns_tumor",
+    "conference": "ASCO"
+  },
+  "rheumatoid arthritis": {
+    "domain": "immunology",
+    "subdomain": "autoimmune_joint",
+    "conference": "EULAR"
+  },
+  "ra": {
+    "domain": "immunology",
+    "subdomain": "autoimmune_joint",
+    "conference": "EULAR"
+  },
+  "lupus": {
+    "domain": "immunology",
+    "subdomain": "autoimmune_systemic",
+    "conference": "EULAR"
+  },
+  "sle": {
+    "domain": "immunology",
+    "subdomain": "autoimmune_systemic",
+    "conference": "EULAR"
+  },
+  "systemic lupus erythematosus": {
+    "domain": "immunology",
+    "subdomain": "autoimmune_systemic",
+    "conference": "EULAR"
+  },
+  "psoriasis": {
+    "domain": "immunology",
+    "subdomain": "autoimmune_skin",
+    "conference": "AAD"
+  },
+  "psoriatic arthritis": {
+    "domain": "immunology",
+    "subdomain": "autoimmune_joint",
+    "conference": "EULAR"
+  },
+  "ankylosing spondylitis": {
+    "domain": "immunology",
+    "subdomain": "autoimmune_joint",
+    "conference": "EULAR"
+  },
+  "crohn": {
+    "domain": "immunology",
+    "subdomain": "ibd",
+    "conference": "UEGW"
+  },
+  "crohn's disease": {
+    "domain": "immunology",
+    "subdomain": "ibd",
+    "conference": "UEGW"
+  },
+  "ulcerative colitis": {
+    "domain": "immunology",
+    "subdomain": "ibd",
+    "conference": "UEGW"
+  },
+  "ibd": {
+    "domain": "immunology",
+    "subdomain": "ibd",
+    "conference": "UEGW"
+  },
+  "heart failure": {
+    "domain": "cardiovascular",
+    "subdomain": "heart_failure",
+    "conference": "ESC"
+  },
+  "hfref": {
+    "domain": "cardiovascular",
+    "subdomain": "heart_failure",
+    "conference": "ESC"
+  },
+  "hfpef": {
+    "domain": "cardiovascular",
+    "subdomain": "heart_failure",
+    "conference": "ESC"
+  },
+  "atrial fibrillation": {
+    "domain": "cardiovascular",
+    "subdomain": "arrhythmia",
+    "conference": "ESC"
+  },
+  "afib": {
+    "domain": "cardiovascular",
+    "subdomain": "arrhythmia",
+    "conference": "ESC"
+  },
+  "hypertension": {
+    "domain": "cardiovascular",
+    "subdomain": "hypertension",
+    "conference": "ESC"
+  },
+  "coronary artery disease": {
+    "domain": "cardiovascular",
+    "subdomain": "coronary",
+    "conference": "ESC"
+  },
+  "cad": {
+    "domain": "cardiovascular",
+    "subdomain": "coronary",
+    "conference": "ESC"
+  },
+  "diabetes": {
+    "domain": "metabolic",
+    "subdomain": "type2_diabetes",
+    "conference": "ADA"
+  },
+  "type 2 diabetes": {
+    "domain": "metabolic",
+    "subdomain": "type2_diabetes",
+    "conference": "ADA"
+  },
+  "type 1 diabetes": {
+    "domain": "metabolic",
+    "subdomain": "type1_diabetes",
+    "conference": "ADA"
+  },
+  "t2d": {
+    "domain": "metabolic",
+    "subdomain": "type2_diabetes",
+    "conference": "ADA"
+  },
+  "t1d": {
+    "domain": "metabolic",
+    "subdomain": "type1_diabetes",
+    "conference": "ADA"
+  },
+  "obesity": {
+    "domain": "metabolic",
+    "subdomain": "obesity",
+    "conference": "ObesityWeek"
+  },
+  "nash": {
+    "domain": "metabolic",
+    "subdomain": "fatty_liver",
+    "conference": "EASL"
+  },
+  "nafld": {
+    "domain": "metabolic",
+    "subdomain": "fatty_liver",
+    "conference": "EASL"
+  },
+  "mash": {
+    "domain": "metabolic",
+    "subdomain": "fatty_liver",
+    "conference": "EASL"
+  }
+}
